@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Software+Engineering+Student;Learning+Java+%7C+MySQL+%7C+Web+Development;Building+projects+step+by+step...&center=true&width=500&height=50">
 </p>
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Software Engineering student at **Universidad de Cartagena** && Multimedia and Web Development Student at **Sena**
@@ -135,6 +127,13 @@ MySQL
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sebastiantejedor/sebastiantejedor/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebastiantejedor&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
