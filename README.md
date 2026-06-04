@@ -33,96 +33,10 @@
 
 ### 🌐 DracoSoft Website
 
-🔎 **Description**  
-Personal brand website designed to showcase digital services and projects in a clean and modern interface.
-
-🧠 **Problem it solves**  
-Many users look for reliable and accessible digital services (streaming, tools, mods), but find disorganized or untrustworthy platforms.  
-DracoSoft centralizes these services in one structured and user-friendly space.
-
-🚀 **Key Features**
-- Streaming services presentation (Netflix, Max, Prime Video, etc.)
-- DracoMods section (games & mods)
-- Responsive and modern UI
-- Interactive design with JavaScript
-
-🛠️ **Technologies**
-HTML5 · CSS3 · JavaScript
-
-📌 **Status**
-🟡 In progress
-
----
-
 ### 📦 DracoLearn Academy
-
-🔎 **Description**  
-Interactive educational platform focused on teaching programming fundamentals in a structured way.
-
-🧠 **Problem it solves**  
-Learning programming can be confusing without clear structure or motivation.  
-This platform provides guided modules, progress tracking and gamification to improve learning.
-
-🚀 **Key Features**
-- Learning modules (variables, conditionals, etc.)
-- XP, levels and achievements system
-- Interactive UI
-- Structured content flow
-
-🛠️ **Technologies**
-HTML5 · CSS3 · JavaScript
-
-📌 **Status**
-🟡 In progress
-
----
 
 ### 🧮 Simple Calculator App
 
-🔎 **Description**  
-A basic calculator application developed to practice programming logic and user interaction.
-
-🧠 **Problem it solves**  
-Beginners need simple but practical tools to understand how logic and operations work in real applications.  
-This calculator demonstrates how fundamental operations are implemented programmatically.
-
-🚀 **Key Features**
-- Addition, subtraction, multiplication and division
-- Clean and minimal interface
-- Input validation
-- Real-time calculation
-
-🛠️ **Technologies**
-HTML · CSS · JavaScript
-
-📌 **Status**
-🔵 Completed
-
----
-
-### 🗄️ Import Tech Database
-
-🔎 **Description**  
-Relational database system designed to manage business operations such as clients, providers, products and sales.
-
-🧠 **Problem it solves**  
-Businesses need organized and reliable data management to avoid inconsistencies and improve decision-making.  
-This database ensures structured relationships and data integrity.
-
-🚀 **Key Features**
-- Normalized database structure
-- Relationships (1:N, N:M)
-- Data validation rules
-- SQL queries for management
-
-🛠️ **Technologies**
-MySQL
-
-📌 **Status**
-🔵 Completed
-
-
----
 ## 👀 Profile Views
 
 <p align="center">
