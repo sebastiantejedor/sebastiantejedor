@@ -33,6 +33,8 @@
 
 ### 🧮 Simple Calculator App
 
+## && Other proyects in Process....
+
 ## 👀 Profile Views
 
 <p align="center">
@@ -45,7 +47,7 @@
 <p align="center">
   <a href="https://www.instagram.com/zo__sebin.ds/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  <a href="https://wa.me/573116136807">
+  <a href="https://wa.me/573012993360">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" />
   </a>
   <a href="https://github.com/sebastiantejedor">
