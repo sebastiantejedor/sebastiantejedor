@@ -8,30 +8,30 @@
 ## 🚀 About Me
 
 - 🎓 Software Engineering student at **Universidad de Cartagena** && Multimedia and Web Development Student at **Sena**
-- 💻 Currently learning and improving in **Java, MySQL and Web Development and other**
+- 💻 Currently learning and improving in **Java, Web Development and other**
 - 🧠 Focused on building real projects and gaining experience
 - 📈 Constantly growing step by step in programming
 
 
-## 🧰 Technologies I'm Learning
+## Technologies I'm Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github" />
 </p>
 
 
-## 🧩 Projects
+## Personal Projects
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=My+Projects;Real+Practice+%2B+Real+Solutions;Building+my+developer+path...&center=true&width=500&height=40">
 </p>
 
 
-### 🌐 DracoSoft Website
+### DracoSoft Website
 
-### 📦 DracoLearn Academy
+### DracoLearn Academy
 
-### 🧮 Simple Calculator App
+### Simple Calculator (App for Windows)
 
 ## && Other proyects in Process....
 
