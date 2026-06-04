@@ -12,7 +12,6 @@
 - 🧠 Focused on building real projects and gaining experience
 - 📈 Constantly growing step by step in programming
 
----
 
 ## 🧰 Technologies I'm Learning
 
@@ -21,15 +20,12 @@
 </p>
 
 
----
-
 ## 🧩 Projects
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=My+Projects;Real+Practice+%2B+Real+Solutions;Building+my+developer+path...&center=true&width=500&height=40">
 </p>
 
----
 
 ### 🌐 DracoSoft Website
 
@@ -43,7 +39,6 @@
   <img src="https://komarev.com/ghpvc/?username=sebastiantejedor&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
 
 ## 🌐 Connect
 
@@ -57,8 +52,7 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
-
----
+    
 
 <p align="center">
   ✨ Building my path in software engineering ✨
